@@ -11,7 +11,7 @@ public class User {
     String[] participatedInTheseHunts;
     boolean hasWonAHunt;
     int moneyWon;
-    int rank;
+    int rank = 1;
 
 
 
